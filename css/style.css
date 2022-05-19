@@ -1,0 +1,98 @@
+.search input
+{
+    outline: none;
+    text-align: center;
+    width: 400px;
+}
+.home
+{
+    height: 100vh;
+}
+.slide
+{
+    background: #FEEAE9;
+    border-radius: 8px;
+}
+.carousel-item
+{
+    padding: 20px 40px;
+}
+.price
+{
+    color: #FF247A;   
+}
+.beutifull
+{
+    background: #FF247A;
+}
+.beutifull i
+{
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+.catagori-item
+{
+    width:25%;
+    border-radius: 10px;
+}
+.cata-1
+{
+    background-image: linear-gradient(to right, orange, rgb(235, 170, 51));
+    border-radius: 20px;
+    height: 120px;
+}
+.cata-2
+{
+    background-image: linear-gradient(to right, #FF247A, #ec4186);
+    border-radius: 20px;
+    height: 120px;
+}
+.cata-3
+{
+    background-image: linear-gradient(to right, blue, rgb(61, 61, 243));
+    border-radius: 20px;
+    height: 120px;
+}
+.cata-img
+{
+    width: 120px;
+}
+
+/* shoes box start from here */
+#shoes-box
+{
+    background: #f4f4f4;
+    height: 100vh;
+}
+.shoe-box
+{
+    outline: none;
+}
+.shoe-box i 
+{
+    width: 30px;
+}
+/* backpack */
+#backpack-box
+{
+    background: #f4f4f4;
+    height: 100vh;
+}
+
+#footer-subs
+{
+    height: 80vh;
+    overflow: hidden;
+}
+.footer
+{
+    background: #feeae9;
+    border-radius: 20px;
+    height: 50vh;
+    margin-top: 8rem;
+}
+.footer input
+{
+    height: 50px;
+}
